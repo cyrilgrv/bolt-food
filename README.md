@@ -54,23 +54,23 @@ Données collectées par [Foxintelligence](https://www.foxintelligence.io/fr/acc
 ![Timeline](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/timeline.png)
 
 ## Outils mis en oeuvre
-![Python for Data Analysis](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white)
+[![Python for Data Analysis](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## Librairies utilisées
-![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9.2-blue)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-blue)
-![Missing Data Analysis](https://img.shields.io/badge/Missing%20Data-missingno-orange)
-![Progress Bars](https://img.shields.io/badge/Progress%20Bars-tqdm-yellowgreen)
-![Text Comparison](https://img.shields.io/badge/Text%20Comparison-difflib-blueviolet)
-![Interactive calendar](https://img.shields.io/badge/Interactive%20Calendar-Calplot-orange)
+[![Pandas](https://img.shields.io/badge/Pandas-2.2.3-blue)](https://github.com/pandas-dev/pandas)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9.2-blue)](https://github.com/matplotlib/matplotlib)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-blue)](https://github.com/mwaskom/seaborn)
+[![Missing Data Analysis](https://img.shields.io/badge/Missing%20Data-missingno-orange)](https://github.com/ResidentMario/missingno)
+[![Progress Bars](https://img.shields.io/badge/Progress%20Bars-tqdm-yellowgreen)](https://github.com/tqdm/tqdm)
+[![Text Comparison](https://img.shields.io/badge/Text%20Comparison-difflib-blueviolet)](https://github.com/python/cpython/blob/3.13/Lib/difflib.py)
+[![Interactive calendar](https://img.shields.io/badge/Interactive%20Calendar-Calplot-orange)](https://github.com/tomkwok/calplot)
 
 ## Quelques exemples d'analyses graphiques effectuées dans le notebook
 
 ### Répartition des commandes dans le temps et par concurrent
-![Conurrents](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/competitors.png)
+![Concurrents](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/competitors.png)
 
 ### Chiffre d'affaires par concurrent et par région française
 ![CA](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/ca.png)
