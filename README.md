@@ -14,14 +14,14 @@ Sa filiale **Bolt Food** propose la livraison de repas dans certains pays, mais 
 - Examiner **les pratiques concurrentielles.**  
 - Émettre des **recommandations argumentées** pour répondre à la problématique.
 
-### L'ensemble de l'analyse est à consulter dans le notebook :
+## L'ensemble de l'analyse est à consulter dans le notebook :
 - Sur Google Colab  <a target="_blank" href="https://colab.research.google.com/github/cyrilgrv/bolt-food/blob/main/Bolt_Food.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 - [A télécharger sur ce repo](https://github.com/cyrilgrv/bolt-food/blob/main/Bolt_Food.ipynb)
 
-### Plan du notebook :
+## Plan du notebook :
 - **Exploration et nettoyage**
     - Exploration du jeu de données
     - Nettoyage et optimisation
