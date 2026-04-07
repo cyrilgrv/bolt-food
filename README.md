@@ -43,16 +43,16 @@ Sa filiale **Bolt Food** propose la livraison de repas dans certains pays, mais 
 
 ## Sources des données
 
-| Nom du fichier | Lien |
-|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![CSV Lines Badge](https://img.shields.io/badge/customers%2Ecsv-378%20observations-informational)         | [Télécharger](http://cgphoto.cluster010.ovh.net/data/bolt_food/customers.csv)    |
-| ![CSV Lines Badge](https://img.shields.io/badge/products%2Ecsv-1.711.616%20observations-informational)    | [Télécharger](http://cgphoto.cluster010.ovh.net/data/bolt_food/products.csv)     |
-| ![CSV Lines Badge](https://img.shields.io/badge/transactions%2Ecsv-807.676%20observations-informational)  | [Télécharger](http://cgphoto.cluster010.ovh.net/data/bolt_food/transactions.csv) |
+| Nom du fichier |
+|-----------------------------------------------------------------------------------------------------------|
+| ![CSV Lines Badge](https://img.shields.io/badge/customers%2Ecsv-378%20observations-informational)         |
+| ![CSV Lines Badge](https://img.shields.io/badge/products%2Ecsv-1.711.616%20observations-informational)    |
+| ![CSV Lines Badge](https://img.shields.io/badge/transactions%2Ecsv-807.676%20observations-informational)  |
 
 Données collectées par [Foxintelligence](https://www.foxintelligence.io/fr/accueil/)
 
 ## Temporalité du jeu de données
-![Timeline](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/timeline.png)
+![Timeline](https://images.cyril-gervais.com/i/PsUiJZIq)
 
 ## Outils mis en oeuvre
 [![Python for Data Analysis](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -73,19 +73,19 @@ Données collectées par [Foxintelligence](https://www.foxintelligence.io/fr/acc
 
 ## Quelques exemples d'analyses graphiques effectuées en Python
 ### Répartition des commandes dans le temps et par concurrent
-![Concurrents](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/competitors.png)
+![Concurrents](https://images.cyril-gervais.com/i/nXlvKC7T)
 
 ### Chiffre d'affaires par concurrent et par région française
-![CA](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/ca.png)
+![CA](https://images.cyril-gervais.com/i/Q2HAGo1n)
 
 ### Répartition des commandes dans la journée
-![Heures](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/hours.png)
+![Heures](https://images.cyril-gervais.com/i/ORYDTToz)
 
 ### Evolution des frais dans le temps
-![Frais](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/fees.png)
+![Frais](https://images.cyril-gervais.com/i/Ms094zEZ)
 
 ### Commandes en promotion par mois et par concurrent
-![Promo](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/promo.png)
+![Promo](https://images.cyril-gervais.com/i/bUO1LyvN)
 
 ### Vérification d'existence de corrélation entre différents facteurs
-![Correlations](http://cgphoto.cluster010.ovh.net/data/bolt_food/img/corr.png)
+![Correlations](https://images.cyril-gervais.com/i/yxKkxxTm)
