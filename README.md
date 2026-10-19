@@ -73,19 +73,19 @@ Données collectées par [Foxintelligence](https://www.foxintelligence.io/fr/acc
 
 ## Quelques exemples d'analyses graphiques effectuées en Python
 ### Répartition des commandes dans le temps et par concurrent
-![Concurrents](https://images.cyril-gervais.com/i/nXlvKC7T)
+![Concurrents](https://images.cyril-gervais.com/image/632a9bde-0d45-4579-8331-04cb3ec1c10d.webp)
 
 ### Chiffre d'affaires par concurrent et par région française
-![CA](https://images.cyril-gervais.com/i/Q2HAGo1n)
+![CA](https://images.cyril-gervais.com/image/b0317c10-7b28-4e72-afd1-b755a6fe3531.webp)
 
 ### Répartition des commandes dans la journée
-![Heures](https://images.cyril-gervais.com/i/ORYDTToz)
+![Heures](https://images.cyril-gervais.com/image/39845cdf-d81a-472f-88bb-3654fd686a65.webp)
 
 ### Evolution des frais dans le temps
-![Frais](https://images.cyril-gervais.com/i/Ms094zEZ)
+![Frais](https://images.cyril-gervais.com/image/584dfc5c-2cb3-4513-8e89-b7ec0b048e6c.webp)
 
 ### Commandes en promotion par mois et par concurrent
-![Promo](https://images.cyril-gervais.com/i/bUO1LyvN)
+![Promo](https://images.cyril-gervais.com/image/c82b5b4f-876d-487d-8b3f-dfcd49ce2f9b.webp)
 
 ### Vérification d'existence de corrélation entre différents facteurs
-![Correlations](https://images.cyril-gervais.com/i/yxKkxxTm)
+![Correlations](https://images.cyril-gervais.com/image/3bc5e245-944d-4960-b483-067509ee9afa.webp)
