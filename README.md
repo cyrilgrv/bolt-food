@@ -1,5 +1,5 @@
 # Projet de fin de formation en data analyse
-![logo](https://brandlogovector.com/wp-content/uploads/2021/06/Bolt-Food-Logo.png)
+![logo](https://images.cyril-gervais.com/image/602f1c9e-dc29-4812-990d-a4f848db0e43.webp)
 
 ## Contexte
 Bolt est un acteur majeur des prestations de VTC dans le monde.  
