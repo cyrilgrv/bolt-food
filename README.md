@@ -49,10 +49,10 @@ Sa filiale **Bolt Food** propose la livraison de repas dans certains pays, mais 
 | ![CSV Lines Badge](https://img.shields.io/badge/products%2Ecsv-1.711.616%20observations-informational)    |
 | ![CSV Lines Badge](https://img.shields.io/badge/transactions%2Ecsv-807.676%20observations-informational)  |
 
-Données collectées par [Foxintelligence](https://www.foxintelligence.io/fr/accueil/)
+Données collectées par [Foxintelligence](https://nielseniq.com/global/en/products/foxintelligence-by-nielseniq/)
 
 ## Temporalité du jeu de données
-![Timeline](https://images.cyril-gervais.com/i/PsUiJZIq)
+![Timeline](https://images.cyril-gervais.com/image/b056869a-d264-4264-9603-298e81ebcd1d.webp)
 
 ## Outils mis en oeuvre
 [![Python for Data Analysis](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)](https://www.python.org/)
