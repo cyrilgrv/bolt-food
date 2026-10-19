@@ -1,5 +1,5 @@
 # Projet de fin de formation en data analyse
-![logo](https://images.cyril-gervais.com/image/602f1c9e-dc29-4812-990d-a4f848db0e43.webp)
+![logo](https://images.cyril-gervais.com/i/yH79f55A)
 
 ## Contexte
 Bolt est un acteur majeur des prestations de VTC dans le monde.  
